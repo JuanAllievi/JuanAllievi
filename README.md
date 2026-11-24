@@ -5,7 +5,7 @@
 </div>
 
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+## &nbsp;***About me***
 I'm a Data Science student, currently halfway through my degree. Alongside my studies, I work as an Operations Coordinator at Surfside 6 Vintage Garage, managing tight schedules, team workflows, and direct client communication in fast-paced environments. I'm passionate about continuous learning and building data-driven solutions.
 <h2>
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3l0cWxnMHdtc2lsYXV5bG9zMmQ5ZHgya3Jrdjc1Zng0a3NlbnRkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pGnNhScvs9Udt1WSkA/giphy.gif" width="25px">
